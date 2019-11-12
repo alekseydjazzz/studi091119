@@ -6,7 +6,9 @@ body {
   color: #1a3e59;;
 }
 
-
+p { font-style: italic;
+font-family: fantasy;
+font-family: cursive;}
 
 
 
@@ -27,11 +29,11 @@ hr {
 }
 
 img {
-  height: 250px;
+  height: 150px;
 }
 
 table {
-  width: 70%;
+  width: 30%;
 }
 
 th {
