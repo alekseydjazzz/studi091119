@@ -1,0 +1,41 @@
+body {
+
+  background-color: #baabda;
+}
+body {
+  color: #1a3e59;;
+}
+
+
+
+
+
+img {
+  border-radius: 10%;
+}
+
+h1{color: #470938;}
+h3{color: #470938;}
+
+hr {
+
+  width: 10%;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  height: 4px;
+}
+
+img {
+  height: 250px;
+}
+
+table {
+  width: 70%;
+}
+
+th {
+  height: 50px;
+}
+ul {width: 70%;}
+ol{width: 20%;}
