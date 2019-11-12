@@ -12,9 +12,7 @@ p { font-style: italic;
 
 
 
-img {
-  border-radius: 10%;
-}
+
 
 h1{color: #470938;}
 h3{color: #470938;}
@@ -33,7 +31,7 @@ img {
 }
 
 table {
-  width: 70%;
+  width: 50%;
 }
 
 th {
