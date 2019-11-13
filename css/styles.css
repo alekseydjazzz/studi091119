@@ -1,24 +1,33 @@
 body {
-
   background-color: #baabda;
 }
+audio { display: flow-root;
+  border-width: 500px;
+  border-color: inherit;
+  padding-left: 0;
+  padding-right: 0;
+
+
+}
+
 body {
-  color: #1a3e59;;
+  color: #1a3e59;
+  ;
 }
 
-p { font-style: italic;
-
+p {
+  font-style: italic;
 }
 
+h1 {
+  color: #470938;
+}
 
-
-
-
-h1{color: #470938;}
-h3{color: #470938;}
+h3 {
+  color: #470938;
+}
 
 hr {
-
   width: 10%;
   border-style: dotted none none;
   border-color: grey;
@@ -37,5 +46,11 @@ table {
 th {
   height: 50px;
 }
-ul {width: 70%;}
-ol{width: 20%;}
+
+ul {
+  width: 70%;
+}
+
+ol {
+  width: 20%;
+}
