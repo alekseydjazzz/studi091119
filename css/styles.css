@@ -6,8 +6,6 @@ audio { display: flow-root;
   border-color: inherit;
   padding-left: 0;
   padding-right: 0;
-
-
 }
 
 body {
@@ -54,3 +52,11 @@ ul {
 ol {
   width: 20%;
 }
+#youtube:hover {background-size: 100px;
+  background-color: #c299fc;}
+  #myphoto:hover {background-size: 100px;
+    background-color: #c299fc;}
+#youtubepng:hover {background-size: 100px;
+  background-color: #c299fc;}
+  #resume:hover {background-size: 100px;
+    background-color: #c299fc;}
