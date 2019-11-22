@@ -1,11 +1,26 @@
 body {
+  margin: 0;
+  background-color: #f6e0b3;
+}
+.head{
+  margin: 0;
   background-color: #baabda;
 }
-audio { display: flow-root;
-  border-width: 500px;
-  border-color: inherit;
-  padding-left: 0;
-  padding-right: 0;
+
+.savanh2{
+  margin-top: 0px;
+}
+.audio-div {
+  position: absolute;
+  right: 10px;
+  margin-right: 10px;
+  width: 300px;
+
+  position: fixed;
+
+}
+.fixaudio{
+  position: fixed;
 }
 
 body {
