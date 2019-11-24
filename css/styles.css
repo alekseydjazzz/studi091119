@@ -1,7 +1,22 @@
 body {
+  font-family: 'Merriweather', serif;
+
   margin: 0;
   background-color: #f6e0b3;
 }
+h1{
+  font-family: 'Marck Script', cursive;
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+
+}
+
 .head{
   margin: 0;
   background-color: #d8daabfa;
@@ -98,5 +113,5 @@ ol {
     background-color: #c299fc;}
 #youtubepng:hover {background-size: 100px;
   background-color: #c299fc;}
-  #resume:hover {background-size: 100px;
+  #resume:hover {
     background-color: #c299fc;}
