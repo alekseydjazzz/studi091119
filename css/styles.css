@@ -4,7 +4,7 @@ body {
 }
 .head{
   margin: 0;
-  background-color: #baabda;
+  background-color: #d8daabfa;
 }
 
 .savanh2{
@@ -15,6 +15,7 @@ body {
   right: 10px;
   margin-right: 10px;
   width: 300px;
+  top: 0px;
 
   position: fixed;
 
@@ -27,7 +28,26 @@ body {
   color: #1a3e59;
   ;
 }
-
+.g1 {position: absolute;
+left: 100px;
+top: 70px;
+height: 100px;
+}
+.g2 {position: absolute;
+right:  100px;
+top: 70px;
+height: 100px;
+}
+.m1 {position: absolute;
+left: 70px;
+top: 400px;
+height: 125px;
+}
+.m2 {position: absolute;
+right:  70px;
+top: 400px;
+height: 125px;
+}
 p {
   font-style: italic;
 }
@@ -48,7 +68,7 @@ hr {
   height: 4px;
 }
 
-img {
+#first {
   height: 150px;
 }
 
@@ -66,6 +86,9 @@ ul {
 
 ol {
   width: 20%;
+}
+#iAm {
+  margin: 0px;
 }
 #youtube:hover {background-size: 100px;
   background-color: #c299fc;}
